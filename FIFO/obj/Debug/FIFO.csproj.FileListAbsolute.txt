@@ -1,0 +1,9 @@
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\bin\Debug\FIFO.exe.config
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\bin\Debug\FIFO.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\bin\Debug\FIFO.pdb
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.frmPrincipal.resources
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.Properties.Resources.resources
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.exe
+V:\UCOL\4to Semestre\Estructura de Datos\Proyectos C#\FIFO\FIFO\obj\Debug\FIFO.pdb
